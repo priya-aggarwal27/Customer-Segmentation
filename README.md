@@ -8,3 +8,9 @@ The steps are broadly:
 4. Ouliers Treatment
 5. Modelling
 6. Final analysis and recomendations
+
+
+Used KMEANS Clustering(Unsupervised) Algorithm to divide the 3 clusters i.e.
+1. High Valued Customers
+2. Average Valued Customers
+3. Less valued Customers
